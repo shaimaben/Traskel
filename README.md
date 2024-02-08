@@ -1,4 +1,4 @@
-![App FactFinder Banner](![Traskel Logo](https://github.com/shaimaben/Traskel/assets/149240031/9195d65e-1378-42d4-a755-136f9463a1d9)
+![App FactFinder Banner](https://github.com/shaimaben/Traskel/assets/149240031/9195d65e-1378-42d4-a755-136f9463a1d9)
 
 
 # TRASKEL
