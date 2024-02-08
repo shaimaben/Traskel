@@ -29,5 +29,5 @@ Throughout the development process, we will gain valuable knowledge and experien
 
 
 
-![End Banner](![img](https://github.com/shaimaben/Traskel/assets/149240031/5703c110-ced9-46ef-8c2e-cd1fe66b220e)
+[End Banner](![img](https://github.com/shaimaben/Traskel/assets/149240031/5703c110-ced9-46ef-8c2e-cd1fe66b220e)
 
